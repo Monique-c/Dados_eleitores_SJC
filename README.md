@@ -1,4 +1,4 @@
-# Análise do dados dos eleitores de São José dos Campos em 2020
+## Análise do dados dos eleitores de São José dos Campos em 2020
 
 ### Trabalho realizado por Monique Carniello e Thiago Henrique Ferreira
 
