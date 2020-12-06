@@ -7,4 +7,4 @@
 ### Conteúdo
 Levantamento dos eleitores joseenses de acordo com grau de escolaridade, gênero declarado, faixa etária e seção eleitoral, utilizando Python e Jupyter Notebook
 
-[Dados extraídos do site do TSE](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
+[Dados extraídos do site do TSE(Tribunal Superior Eleitoral)](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
