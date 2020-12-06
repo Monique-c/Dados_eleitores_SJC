@@ -2,4 +2,4 @@
 
 ### Trabalho realizado por Monique Carniello e Thiago Henrique Ferreira
 
-Levantamento do número de eleitores joseenses de acordo com grua de escolaridade, gênero declarado, faixa etária e seção eleitoral
+Levantamento do número de eleitores joseenses de acordo com grau de escolaridade, gênero declarado, faixa etária e seção eleitoral
